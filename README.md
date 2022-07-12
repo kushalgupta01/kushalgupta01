@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kushalgupta01
 - 👀 I’m interested in exploring new solutions for a problem.
 - 🌱 I’m currently learning cloud services.
-- 💞️ I’m looking to collaborate on Azure Cloud Integration with Web App.
+- 💞️ I’m looking to collaborate on Azure Cloud Integration with Web App
+- 🐱‍👤 Also looking to collaborate for any large system usecase.
 - 📫 reach me - kushalgupta0106@gmail.com.
 
 <!---
